@@ -1,0 +1,302 @@
+[
+ {
+   "code3": "AGO",
+   "name": "Angola",
+   "value": 23.11,
+   "code": "AO"
+ },
+ {
+   "code3": "BDI",
+   "name": "Burundi",
+   "value": 409.82,
+   "code": "BI"
+ },
+ {
+   "code3": "BEN",
+   "name": "Benin",
+   "value": 96.42,
+   "code": "BJ"
+ },
+ {
+   "code3": "BWA",
+   "name": "Botswana",
+   "value": 3.97,
+   "code": "BW"
+ },
+ {
+   "code3": "CIV",
+   "name": "Cote d'Ivoire",
+   "value": 74.52,
+   "code": "CI"
+ },
+ {
+   "code3": "CMR",
+   "name": "Cameroon",
+   "value": 49.58,
+   "code": "CM"
+ },
+ {
+   "code3": "COD",
+   "name": "Congo, Dem. Rep.",
+   "value": 34.73,
+   "code": "CD"
+ },
+ {
+   "code3": "COG",
+   "name": "Congo, Rep.",
+   "value": 15.01,
+   "code": "CG"
+ },
+ {
+   "code3": "COM",
+   "name": "Comoros",
+   "value": 427.51,
+   "code": "KM"
+ },
+ {
+   "code3": "CPV",
+   "name": "Cabo Verde",
+   "value": 133.89,
+   "code": "CV"
+ },
+ {
+   "code3": "DJI",
+   "name": "Djibouti",
+   "value": 40.65,
+   "code": "DJ"
+ },
+ {
+   "code3": "DZA",
+   "name": "Algeria",
+   "value": 17.05,
+   "code": "DZ"
+ },
+ {
+   "code3": "EGY",
+   "name": "Egypt, Arab Rep.",
+   "value": 96.13,
+   "code": "EG"
+ },
+ {
+   "code3": "ETH",
+   "name": "Ethiopia",
+   "value": 102.4,
+   "code": "ET"
+ },
+ {
+   "code3": "GAB",
+   "name": "Gabon",
+   "value": 7.68,
+   "code": "GA"
+ },
+ {
+   "code3": "GHA",
+   "name": "Ghana",
+   "value": 123.96,
+   "code": "GH"
+ },
+ {
+   "code3": "GIN",
+   "name": "Guinea",
+   "value": 50.45,
+   "code": "GN"
+ },
+ {
+   "code3": "GMB",
+   "name": "Gambia, The",
+   "value": 201.43,
+   "code": "GM"
+ },
+ {
+   "code3": "GNB",
+   "name": "Guinea-Bissau",
+   "value": 64.57,
+   "code": "GW"
+ },
+ {
+   "code3": "GNQ",
+   "name": "Equatorial Guinea",
+   "value": 43.55,
+   "code": "GQ"
+ },
+ {
+   "code3": "KEN",
+   "name": "Kenya",
+   "value": 85.15,
+   "code": "KE"
+ },
+ {
+   "code3": "LBR",
+   "name": "Liberia",
+   "value": 47.9,
+   "code": "LR"
+ },
+ {
+   "code3": "LBY",
+   "name": "Libya",
+   "value": 3.58,
+   "code": "LY"
+ },
+ {
+   "code3": "LSO",
+   "name": "Lesotho",
+   "value": 72.59,
+   "code": "LS"
+ },
+ {
+   "code3": "MAR",
+   "name": "Morocco",
+   "value": 79.04,
+   "code": "MA"
+ },
+ {
+   "code3": "MDG",
+   "name": "Madagascar",
+   "value": 42.79,
+   "code": "MG"
+ },
+ {
+   "code3": "MLI",
+   "name": "Mali",
+   "value": 14.75,
+   "code": "ML"
+ },
+ {
+   "code3": "MOZ",
+   "name": "Mozambique",
+   "value": 36.66,
+   "code": "MZ"
+ },
+ {
+   "code3": "MRT",
+   "name": "Mauritania",
+   "value": 4.17,
+   "code": "MR"
+ },
+ {
+   "code3": "MUS",
+   "name": "Mauritius",
+   "value": 622.4,
+   "code": "MU"
+ },
+ {
+   "code3": "MWI",
+   "name": "Malawi",
+   "value": 191.89,
+   "code": "MW"
+ },
+ {
+   "code3": "NAM",
+   "name": "Namibia",
+   "value": 3.01,
+   "code": "NA"
+ },
+ {
+   "code3": "NER",
+   "name": "Niger",
+   "value": 16.32,
+   "code": "NE"
+ },
+ {
+   "code3": "NGA",
+   "name": "Nigeria",
+   "value": 204.21,
+   "code": "NG"
+ },
+ {
+   "code3": "RWA",
+   "name": "Rwanda",
+   "value": 483.08,
+   "code": "RW"
+ },
+ {
+   "code3": "SDN",
+   "name": "Sudan",
+   "value": 16.66,
+   "code": "SD"
+ },
+ {
+   "code3": "SEN",
+   "name": "Senegal",
+   "value": 80.05,
+   "code": "SN"
+ },
+ {
+   "code3": "SLE",
+   "name": "Sierra Leone",
+   "value": 102.47,
+   "code": "SL"
+ },
+ {
+   "code3": "SOM",
+   "name": "Somalia",
+   "value": 22.82,
+   "code": "SO"
+ },
+ {
+   "code3": "STP",
+   "name": "Sao Tome and Principe",
+   "value": 208.24,
+   "code": "ST"
+ },
+ {
+   "code3": "SWZ",
+   "name": "Swaziland",
+   "value": 78.09,
+   "code": "SZ"
+ },
+ {
+   "code3": "SYC",
+   "name": "Seychelles",
+   "value": 205.82,
+   "code": "SC"
+ },
+ {
+   "code3": "TCD",
+   "name": "Chad",
+   "value": 11.48,
+   "code": "TD"
+ },
+ {
+   "code3": "TGO",
+   "name": "Togo",
+   "value": 139.85,
+   "code": "TG"
+ },
+ {
+   "code3": "TUN",
+   "name": "Tunisia",
+   "value": 73.4,
+   "code": "TN"
+ },
+ {
+   "code3": "TZA",
+   "name": "Tanzania",
+   "value": 62.74,
+   "code": "TZ"
+ },
+ {
+   "code3": "UGA",
+   "name": "Uganda",
+   "value": 206.9,
+   "code": "UG"
+ },
+ {
+   "code3": "ZAF",
+   "name": "South Africa",
+   "value": 46.18,
+   "code": "ZA"
+ },
+ {
+   "code3": "ZMB",
+   "name": "Zambia",
+   "value": 22.32,
+   "code": "ZM"
+ },
+ {
+   "code3": "ZWE",
+   "name": "Zimbabwe",
+   "value": 41.75,
+   "code": "ZW"
+ }
+]
